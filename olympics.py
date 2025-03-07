@@ -40,6 +40,7 @@ t.goto(-125,100)
 t.pencolor("purple")
 t.pendown()
 
+
 t.write("Winter Olympics",font=("Arial",30,"bold"))
 
 t.penup()
